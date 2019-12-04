@@ -1,0 +1,2 @@
+# Tujuan.txt
+tujuan akhir 
